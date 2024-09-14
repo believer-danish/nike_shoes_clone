@@ -11,7 +11,7 @@ const Hero = () => {
     <section className="  min-h-screen flex flex-col lg:flex-row items-center justify-center  max-container">
       {/* Left section */}
       <div className="  pl-16 font-montserrat flex  flex-col justify-center  pt-36 ">
-        <p className="text-coral-red text-xl py-4">Our Summer Collection</p>
+        <p className="text-coral-red text-xl py-4">Our Summer Collections</p>
 
         <h1 className="text-4xl md:text-[70px] xl:text-8xl font-bold font-palanquin leading-normal">
           <span className=" inline-block lg:absolute lg:bg-white  dark:lg:bg-black">
